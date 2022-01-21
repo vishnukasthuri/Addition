@@ -6,6 +6,6 @@ public class Main {
         int i,j;
         i = 10;
         j = 20;
-        System.out.println(i+j);
+        System.out.println(i+j+20);
     }
 }
